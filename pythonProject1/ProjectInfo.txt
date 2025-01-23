@@ -1,0 +1,3 @@
+Created around October 2023
+
+This was one of the earliest projects i did. I learned how to make a GUI in python and then learned how to make objects move
