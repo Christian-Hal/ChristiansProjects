@@ -1,0 +1,5 @@
+Add a readme to the freshman projects explaining which ones are cool.
+
+Add sophomore and junior projects as well as README for readability
+
+add any pet projects as you make them.
